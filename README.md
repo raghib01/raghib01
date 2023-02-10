@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋 I'm <b>Ragib</b>
+#### I am MERN stack developer
+- 🌱 I’m currently learning Backend architecture
+- 👯 I’m looking to collaborate on Github
+- 💬 Ask me about MERN stack
 
-<!--
-**raghib01/raghib01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Skillset
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,docker,tailwind,postman,firebase,linux,py,c,vscode,aws&perline=7)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghib01&layout=compact&theme=radical)
+
+![raghib01's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghib01&show_icons=true&theme=radical)
+
