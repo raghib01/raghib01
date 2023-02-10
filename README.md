@@ -9,6 +9,3 @@
 [![My Skills](https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,docker,tailwind,postman,firebase,linux,py,c,vscode,aws&perline=7)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghib01&layout=compact&theme=radical)
-
-![raghib01's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghib01&show_icons=true&theme=radical)
-
