@@ -1,5 +1,5 @@
 # Hi there 👋 I'm <b>Ragib</b>
-#### I am MERN stack developer
+#### MERN stack developer
 - 🌱 I’m currently learning Backend architecture
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about MERN stack
