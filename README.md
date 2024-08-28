@@ -13,7 +13,7 @@
 
 ### My Skillset
 
-[![My Skills](https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,docker,tailwind,postman,firebase,linux,py,c,vscode,aws&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,tailwind,docker,postman,firebase,linux,py,vscode,aws&perline=7)](https://skillicons.dev)
 
 
 
